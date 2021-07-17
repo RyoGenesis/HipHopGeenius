@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp">
+
+    <TextView
+        android:id="@+id/tv_track_number"
+        style="@style/track_names"
+        android:paddingVertical="5dp"
+        tools:text="@string/track_num"/>
+
+    <TextView
+        android:id="@+id/tv_track_name"
+        style="@style/track_names"
+        android:paddingVertical="5dp"
+        tools:text="@string/track_name"/>
+
+</LinearLayout>

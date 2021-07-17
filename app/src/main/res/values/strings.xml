@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Hip Hop Geenius</string>
+    <string name="album_name">Album Name</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="release_year">Year</string>
+    <string name="dev_name">Rio</string>
+    <string name="dicoding_email">rtunggala18@gmail.com</string>
+    <string name="about">About</string>
+    <string name="album">Album</string>
+    <string name="release">Release Year: </string>
+    <string name="about_album">About "Album Name" : </string>
+    <string name="description">Brief description of album</string>
+    <string name="track_list">Track List</string>
+    <string name="favorite">Favorite</string>
+    <string name="more_info">More Info</string>
+    <string name="track_name">Track Name</string>
+    <string name="track_num">1. </string>
+    <string name="label_name">&#169; Label Name</string>
+    <string name="dev_info">"Aspiring software/game developer. Currently pursuing a Computer Science degree. Like to learn new things, especially about game development"</string>
+    <string name="dev_profile">Dev Profile</string>
+    <string name="available_albums">AVAILABLE ALBUMS</string>
+</resources>
