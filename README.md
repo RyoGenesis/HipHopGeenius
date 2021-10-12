@@ -1,7 +1,7 @@
 # HipHopGeenius
 <img src="app/src/main/res/drawable/hiphopgeenius_logo.png" width="200" height="200">
 
-Android Project submitted for Dicoding final project. All credits for data source: https://genius.com  
+Android Project submitted for Dicoding "Learning Android for Beginners" final project . All credits for data source: https://genius.com  
 
 Hip Hop Geenius is a simple android app that shows a list of selected hip-hop Albums from various hip hop artists with brief details about the albums itself in similar regards to genius.com.
 
